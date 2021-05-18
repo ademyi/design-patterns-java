@@ -1,6 +1,6 @@
 ### GoF Design Patterns in Java
 
-- 
+- list 
 
 
 | Module      | Description |
